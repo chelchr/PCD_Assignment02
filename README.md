@@ -39,6 +39,6 @@ PCD_Assignment02/
 │   └── image4_overexposed_enhanced.png
 │
 ├── report/
-│   └── PCD_Assignment02_Report.pdf
+│   └── PCD Assignment02 Report Analysis.pdf
 │
 └── README.md
