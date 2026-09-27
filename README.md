@@ -33,10 +33,6 @@ PCD_Assignment02/
 │   └── image4_overexposed.jpeg
 │
 ├── results/
-│   ├── comparison_all_images.png
-│   ├── enhanced_metrics.csv
-│   ├── metrics_comparison.csv
-│   ├── original_metrics.csv
 │   ├── image1_underexposed_enhanced.png
 │   ├── image2_low_contrast_enhanced.png
 │   ├── image3_blurred_enhanced.png
